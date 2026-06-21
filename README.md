@@ -18,25 +18,9 @@ Currently writing C++ and studying DSA while building web projects on the side.
 ### 🛠️ Current skills
 
 ```
-Languages     →  C  ·  C++  ·  HTML  ·  CSS
+Languages     →  Python  ·  C  ·  HTML  ·  CSS
 Concepts      →  DSA  ·  OOP  ·  Git & GitHub
 Learning now  →  JavaScript  →  React  →  Next.js
-```
-
-
-
- 📍 My Roadmap
-
-```
-[ ✅ ] C / C++ + DSA
-[ ✅ ] HTML + CSS
-[ 🔄 ] JavaScript
-[ ⏳ ] React + Next.js
-[ ⏳ ] Python + ML fundamentals
-[ ⏳ ] PyTorch + HuggingFace
-[ ⏳ ] AI-powered Full Stack apps
-```
-
 ---
 
  📈 GitHub Stats
@@ -60,6 +44,6 @@ Learning now  →  JavaScript  →  React  →  Next.js
 
 <div align="center">
 
-*"Still early. But building every day."*
+*"Still early. But building and learning every day."*
 
 </div>
