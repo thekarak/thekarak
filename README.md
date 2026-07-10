@@ -1,49 +1,23 @@
-<div align="center">
+# Karak
+**Computer Science Engineering Undergraduate | Machine Learning Enthusiast**
 
- Hey, I'm Sourasis Karak 👋
- `@thekarak` · Full Stack → AI/ML · Building in public
+## Professional Summary
+I am a Computer Science Engineering undergraduate with a strong foundation in software architecture and a dedicated focus on Machine Learning. I specialize in translating complex logic into clean, efficient code using Object-Oriented Programming principles. My current objective is to leverage my academic background in computer science and my growing expertise in data processing to contribute to data-driven engineering teams.
 
-[![X](https://img.shields.io/badge/X-@imskarak-black?style=flat-square&logo=x)](https://twitter.com/imskarak)
-[![GitHub](https://img.shields.io/badge/GitHub-@thekarak-181717?style=flat-square&logo=github)](https://github.com/thekarak)
+## Technical Competencies
+*   **Programming Languages:** Python, C
+*   **Core Engineering Skills:** Object-Oriented Programming (OOP), Data Structures & Algorithms, Software Development Life Cycle
+*   **Data & Machine Learning:** NumPy, Pandas, Data Manipulation, Exploratory Data Analysis
+*   **Version Control & Tools:** Git, GitHub, Linux Environment
 
-</div>
+## Current Focus & Trajectory
+To build a robust foundation for artificial intelligence and machine learning, I am currently mastering data wrangling and manipulation using Python's NumPy and Pandas libraries. My immediate trajectory involves applying these skills to real-world datasets, followed by implementing foundational machine learning algorithms using Scikit-Learn.
 
-🧭 Who I am
+## Why Work With Me
+*   **Strong CS Fundamentals:** My background in C and Data Structures ensures I write efficient, performance-conscious code.
+*   **Continuous Learner:** I actively expand my technical stack beyond the university curriculum, adapting quickly to new tools and frameworks.
+*   **Problem-Solver:** I approach engineering challenges methodically, prioritizing clean architecture and maintainability.
 
-First-year B.Tech CS student on a deliberate path — building a strong Full Stack foundation first, then going deep into AI/ML. I believe in learning by shipping real things, not just following tutorials.
-
-Currently writing C++ and studying DSA while building web projects on the side.
-
-
-### 🛠️ Current skills
-
-```
-Languages     →  Python  ·  C  ·  HTML  ·  CSS
-Concepts      →  DSA  ·  OOP  ·  Git & GitHub
-Learning now  →  JavaScript  →  React  →  Next.js
----
-
- 📈 GitHub Stats
-
-<div align="center">
-
-![Sourasis's GitHub stats](https://github-readme-stats.vercel.app/api?username=thekarak&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thekarak&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
- 2026 goals
- 
-- Get solid at React + Next.js
-- Start Python → ML track
-- Grow my GitHub with real, useful projects
-
-
-
-<div align="center">
-
-*"Still early. But building and learning every day."*
-
-</div>
+## Contact & Connections
+*   **Email:** devxkarak@gmail.com
+*   **LinkedIn:** [https://www.linkedin.com/in/sourasis-karak-284318245?utm_source=share_via&utm_content=profile&utm_medium=member_android]
