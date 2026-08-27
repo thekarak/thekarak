@@ -14,7 +14,7 @@ I am a Computer Science Engineering undergraduate with a strong foundation in so
 To build a robust foundation for artificial intelligence and machine learning, I am currently mastering data wrangling and manipulation using Python's NumPy and Pandas libraries. My immediate trajectory involves applying these skills to real-world datasets, followed by implementing foundational machine learning algorithms using Scikit-Learn.
 
 ## Why Work With Me
-*   **Strong CS Fundamentals:** My background in C and Data Structures ensures I write efficient, performance-conscious code.
+*   **Strong CS Fundamentals:** My background in Python and Data Structures ensures I write efficient, performance-conscious code.
 *   **Continuous Learner:** I actively expand my technical stack beyond the university curriculum, adapting quickly to new tools and frameworks.
 *   **Problem-Solver:** I approach engineering challenges methodically, prioritizing clean architecture and maintainability.
 
