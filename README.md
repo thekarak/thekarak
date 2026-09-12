@@ -32,8 +32,8 @@
 
 ### `$ stats --show`
 
-<img src="https://github-readme-stats.vercel.app/api?username=thekarak&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D1117" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thekarak&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117" height="160"/>
+![Followers](https://img.shields.io/github/followers/thekarak?style=for-the-badge&color=000000&labelColor=000000&logoColor=39FF14&logo=github)
+![Stars](https://img.shields.io/github/stars/thekarak?style=for-the-badge&color=000000&labelColor=000000&logoColor=39FF14&logo=github)
 
 </div>
 
