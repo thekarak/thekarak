@@ -19,5 +19,5 @@ To build a robust foundation for artificial intelligence and machine learning, I
 *   **Problem-Solver:** I approach engineering challenges methodically, prioritizing clean architecture and maintainability.
 
 ## Contact & Connections
-*   **Email:** devxkarak@gmail.com
+*   **Email:** soykarak@gmail.com
 *   **LinkedIn:** [https://www.linkedin.com/in/sourasis-karak-284318245?utm_source=share_via&utm_content=profile&utm_medium=member_android]
