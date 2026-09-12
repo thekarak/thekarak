@@ -1,52 +1,51 @@
-<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=900&color=7CFF6B&center=true&vCenter=true&width=520&lines=KARAK.EXE;CS+Undergraduate;AI+%2F+ML+%2F+Software" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14&duration=3000&pause=1000&color=39FF14&background=0D1117&center=true&vCenter=true&width=500&lines=CS+ENGINEER;ML+ENTHUSIAST;LOADING+FUTURE...)](https://git.io/typing-svg)
 
-<p>
-  <a href="https://github.com/thekarak">
-    <img src="https://img.shields.io/badge/GitHub-thekarak-111111?style=flat-square&logo=github">
-  </a>
-  <a href="https://www.linkedin.com/in/sourasiskarak">
-    <img src="https://img.shields.io/badge/LinkedIn-sourasiskarak-111111?style=flat-square&logo=linkedin">
-  </a>
-  <a href="mailto:soykarak@gmail.com">
-    <img src="https://img.shields.io/badge/Email-soykarak%40gmail.com-111111?style=flat-square&logo=gmail">
-  </a>
-</p>
+`> whoami` — building things with Python, data, and a little bit of chaos.
 
 </div>
 
-```text
-╭────────────────────────────────────────────╮
-│ $ ./karak                                   │
-│                                             │
-│ building practical things with AI,          │
-│ data & software.                             │
-│                                             │
-│ status: learning • building • shipping      │
-╰────────────────────────────────────────────╯
-```
+---
 
-### `// focus`
+### `$ tech_stack --list`
 
-`AI` · `Machine Learning` · `Python` · `Software Engineering`
+![Python](https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=39FF14)
+![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=39FF14)
+![NumPy](https://img.shields.io/badge/NUMPY-000000?style=for-the-badge&logo=numpy&logoColor=39FF14)
+![Pandas](https://img.shields.io/badge/PANDAS-000000?style=for-the-badge&logo=pandas&logoColor=39FF14)
+![Git](https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=39FF14)
+![Linux](https://img.shields.io/badge/LINUX-000000?style=for-the-badge&logo=linux&logoColor=39FF14)
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,c,typescript,numpy,pandas,sklearn,git,github,linux&theme=dark" />
-</p>
+---
 
-### `// projects`
+### `$ ls ./featured_projects`
 
-`V.A.R.U.N.A.` · `Analyticus` · `Reducing-LLM-Hallucinations` · `RoastMeBuddy`
+| ⚡ | Project | Description |
+|---|---|---|
+| 🚢 | **[VARUNA](https://github.com/thekarak/VARUNA)** | Vision-based algorithm for rapid unrefined-oil & nautical analysis |
+| 🏃 | **[Analyticus](https://github.com/thekarak/Analyticus)** | ML system predicting athlete injury risk & recovery from time-series data |
+| 🧠 | **[Reducing-LLM-Hallucinations](https://github.com/thekarak/Reducing-LLM-Hallucinations)** | Evaluating RAG's impact on reducing LLM hallucinations |
 
-```text
-> BUILD
-> TEST
-> BREAK
-> FIX
-> SHIP
-```
+---
 
 <div align="center">
-<sub>© KARAK · 2026</sub>
+
+### `$ stats --show`
+
+<img src="https://github-readme-stats.vercel.app/api?username=thekarak&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D1117" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thekarak&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117" height="160"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### `$ contact --init`
+
+[![Email](https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=39FF14)](mailto:soykarak@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=39FF14)](https://www.linkedin.com/in/sourasis-karak-284318245)
+
+<sub>`> connection established_`</sub>
+
 </div>
