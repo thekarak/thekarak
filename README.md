@@ -1,114 +1,54 @@
-# KARAK.EXE
+<div align="center">
 
-```text
-╔══════════════════════════════════════════════════════════╗
-║  SOURASIS KARAK                                          ║
-║  Computer Science Engineering Undergraduate              ║
-║  Machine Learning Enthusiast                             ║
-╚══════════════════════════════════════════════════════════╝
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=1000&center=true&vCenter=true&width=500&lines=KARAK.EXE;CS+Undergraduate;Building+%7C+Learning+%7C+Shipping" />
+
+`CS Undergraduate` · `Developer` · `ML Enthusiast`
+
+[![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat-square\&logo=github\&logoColor=white)](https://github.com/thekarak)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/sourasis-karak-284318245/)
+[![Email](https://img.shields.io/badge/Email-111111?style=flat-square\&logo=gmail\&logoColor=white)](mailto:devxkarak@gmail.com)
+
+</div>
+
+```text id="3wvlsc"
+┌─────────────────────────────────────────────────┐
+│  $ ./karak                                      │
+│                                                 │
+│  Building practical systems around AI, data     │
+│  and software engineering.                      │
+│                                                 │
+│  > learning Python + ML                         │
+│  > building real-world projects                 │
+└─────────────────────────────────────────────────┘
 ```
 
-> `STATUS: BUILDING`
+### `// selected work`
 
-I'm a CS undergraduate interested in **software development, data, machine learning, and open source**.
+**V.A.R.U.N.A.** — Satellite & maritime intelligence
+**Analyticus** — ML-driven analytics
+**Reducing-LLM-Hallucinations** — RAG & LLM reliability
+**RoastMeBuddy** — Product feedback
 
-I like turning complex problems into simple, maintainable solutions.
+### `// stack`
 
----
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,c,typescript,numpy,pandas,sklearn,git,github,linux&theme=dark" />
+</p>
 
-## `01 / CURRENTLY`
+<div align="center">
 
-```text
-[████████████████░░░░]  DATA + ML
+```text id="djp0v1"
+BUILD → TEST → BREAK → FIX → SHIP
 
-> Python
-> NumPy
-> Pandas
-> Data Analysis
-> OOP
-> DSA
-> Git / GitHub
+┌───────────────────────────────────────────────┐
+│  CONTACT                                      │
+│                                               │
+│  ✉  soykarak@gmail.com                       │
+│  in sourasiskarak                             │
+│  gh thekarak                                  │
+└───────────────────────────────────────────────┘
 ```
 
-Currently focused on strengthening my foundations in **Python, NumPy, Pandas and data processing**, with the goal of moving into practical Machine Learning.
+<sub>© KARAK · 2026</sub>
 
----
-
-## `02 / TOOLKIT`
-
-| AREA        | TOOLS                  |
-| ----------- | ---------------------- |
-| Languages   | `Python` `C`           |
-| Programming | `OOP` `DSA`            |
-| Data        | `NumPy` `Pandas`       |
-| ML          | `Scikit-Learn`         |
-| Development | `Git` `GitHub` `Linux` |
-
----
-
-## `03 / PROJECTS`
-
-### [`RoastMeBuddy`](https://github.com/thekarak/RoastMeBuddy)
-
-> A TypeScript project built around interactive product feedback.
-
-**Stack:** `TypeScript`
-
----
-
-## `04 / ROADMAP`
-
-```text
-Python
-  ↓
-Data Manipulation
-  ↓
-Exploratory Data Analysis
-  ↓
-Machine Learning
-  ↓
-Real-world Projects
-  ↓
-Open Source
-```
-
-`CURRENT: ML FUNDAMENTALS`
-
----
-
-## `05 / PHILOSOPHY`
-
-```text
-BUILD → BREAK → LEARN → IMPROVE
-Real projects > endless tutorials
-Consistency > speed
-Leaveraging AI in correct way
-```
-
----
-
-## `06 / CONNECT`
-
-```text
-┌─────────────────────────────────────────────┐
-│                                             │
-│  EMAIL     →  soykarak@gmail.com            │
-│  LINKEDIN  →  sourasiskarak                 │
-│  GITHUB    →  thekarak                      │
-│                                             │
-└─────────────────────────────────────────────┘
-```
-
-**[LinkedIn](https://www.linkedin.com/in/sourasiskarak)** · **[GitHub](https://github.com/thekarak)**
-
----
-
-```text
-──────────────────────────────────────────────
-
-       "Keep building. Keep learning."
-
-──────────────────────────────────────────────
-
-             © KARAK / 2026
-```
+</div>
