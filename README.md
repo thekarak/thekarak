@@ -36,15 +36,6 @@ CS undergrad with a strong foundation in software architecture and a growing foc
 
 ---
 
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thekarak&show_icons=true&theme=tokyonight&hide_border=true" alt="Karak's GitHub stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thekarak&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="160"/>
-</p>
-
----
-
 ### Let's Connect
 
 [![Email](https://img.shields.io/badge/-soykarak%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:soykarak@gmail.com)
