@@ -7,6 +7,6 @@ CS undergraduate focused on exploratory data analysis, statistical modeling, and
 
 **Open to internships, research collaborations, and technical discussions.**
 
-[GitHub](https://github.com/thekarak)
+[website](https://soykarak.vercel.app)
 
 </div>
